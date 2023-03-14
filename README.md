@@ -1,1 +1,1 @@
-# odin-recipes
+Website of recipes to apply what I learned (and relearned) about Git, Github, and HTML from The Odin Project.
